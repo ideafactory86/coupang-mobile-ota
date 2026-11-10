@@ -1,0 +1,10 @@
+{
+  "latest_version_code": 9,
+  "latest_version_name": "1.0.9",
+  "force_update": false,
+  "apk_url": "https://raw.githubusercontent.com/ideafactory86/coupang-mobile-ota/main/coupang_booster_latest.apk",
+  "release_notes": "v1.0.9 — 절전보드(OLED 암전 절전모드) 비행기모드 시 자동 꺼짐 차단 + 1% 최저 밝기 절전 복원 + 실시간 작업현황/키워드 타수/시계 라이브 갱신",
+  "hotpatch_version": 9,
+  "hotpatch_init_js": "window.__if_coupang_hotpatch_v = 9;",
+  "hotpatch_engage_js": ""
+}
