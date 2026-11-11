@@ -1,10 +1,10 @@
 {
-  "latest_version_code": 10,
-  "latest_version_name": "1.1.0",
+  "latest_version_code": 11,
+  "latest_version_name": "1.1.1",
   "force_update": false,
-  "apk_url": "https://raw.githubusercontent.com/ideafactory86/coupang-mobile-ota/main/coupang_booster_latest.apk",
-  "release_notes": "v1.1.0 — 원격 자동 업데이트 인스톨러 4단계 하이브리드 탑재 (안드로이드 14/One UI 6 완벽 호환, 설치창 오류 원천 해결) + 절전보드 무중단 암전 유지",
-  "hotpatch_version": 10,
-  "hotpatch_init_js": "window.__if_coupang_hotpatch_v = 10;",
+  "apk_url": "https://github.com/ideafactory86/coupang-mobile-ota/releases/download/v1.1.1/coupang_booster_latest.apk",
+  "release_notes": "v1.1.1 — 절전모드 화면 1-Tap 선명 보기 & 실시간 진행 로그 콘솔 탑재 (터치 1번으로 15초간 선명 밝기·고대비 로그 확인 후 자동 초절전 복귀)",
+  "hotpatch_version": 11,
+  "hotpatch_init_js": "window.__if_coupang_hotpatch_v = 11;",
   "hotpatch_engage_js": ""
 }
