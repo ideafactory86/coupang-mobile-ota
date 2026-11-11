@@ -1,10 +1,10 @@
 {
-  "latest_version_code": 11,
-  "latest_version_name": "1.1.1",
+  "latest_version_code": 12,
+  "latest_version_name": "1.1.2",
   "force_update": false,
-  "apk_url": "https://github.com/ideafactory86/coupang-mobile-ota/releases/download/v1.1.1/coupang_booster_latest.apk",
-  "release_notes": "v1.1.1 — 절전모드 화면 1-Tap 선명 보기 & 실시간 진행 로그 콘솔 탑재 (터치 1번으로 15초간 선명 밝기·고대비 로그 확인 후 자동 초절전 복귀)",
-  "hotpatch_version": 11,
-  "hotpatch_init_js": "window.__if_coupang_hotpatch_v = 11;",
+  "apk_url": "https://github.com/ideafactory86/coupang-mobile-ota/releases/download/v1.1.2/coupang_booster_latest.apk",
+  "release_notes": "v1.1.2 — 절전모드 기본 가독성 8% 개선(배경 OLED 완전 소등 유지) + 화면 1번 터치 시 95% 초선명 풀밝기 실시간 로그 표시",
+  "hotpatch_version": 12,
+  "hotpatch_init_js": "window.__if_coupang_hotpatch_v = 12;",
   "hotpatch_engage_js": ""
 }
