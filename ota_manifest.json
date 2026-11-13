@@ -1,10 +1,10 @@
 {
-  "latest_version_code": 16,
-  "latest_version_name": "1.1.6",
+  "latest_version_code": 17,
+  "latest_version_name": "1.1.7",
   "force_update": false,
-  "apk_url": "https://github.com/ideafactory86/coupang-mobile-ota/releases/download/v1.1.6/coupang_booster_latest.apk",
-  "release_notes": "v1.1.6 — 빅키워드 사다리 자동감시 & 1P 포착 시 정식 타겟 자동 승격 엔진 + 품절 오방난로 자동 제외",
-  "hotpatch_version": 16,
-  "hotpatch_init_js": "window.__if_coupang_hotpatch_v = 16;",
+  "apk_url": "https://github.com/ideafactory86/coupang-mobile-ota/releases/download/v1.1.7/coupang_booster_latest.apk",
+  "release_notes": "v1.1.7 — 돈되는 고검색량 대형키워드 #필터 사다리 8종 자동 전환 + 쿠팡 신규 Next.js 필터 DOM 엔진 탑재 + 타사유심 로밍 안내 팝업 0.15초 자동 제거",
+  "hotpatch_version": 17,
+  "hotpatch_init_js": "window.__if_coupang_hotpatch_v = 17;",
   "hotpatch_engage_js": ""
 }
